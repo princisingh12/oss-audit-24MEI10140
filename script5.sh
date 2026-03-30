@@ -24,13 +24,13 @@ echo ""
 echo "------------------------------------------------------------"
 
 # --- User input ---
-read -p "  1. Name one open-source tool you use every day: " TOOL
+read -p "  1. Name one open-source tool you use every day: " python
 echo ""
 
-read -p "  2. In one word, what does 'freedom' mean to you?  " FREEDOM
+read -p "  2. In one word, what does 'freedom' mean to you?  " independent
 echo ""
 
-read -p "  3. Name one thing you would build and share freely: " BUILD
+read -p "  3. Name one thing you would build and share freely: " project
 echo ""
 
 # --- Validation ---
