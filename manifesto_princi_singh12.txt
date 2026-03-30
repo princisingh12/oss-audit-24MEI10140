@@ -1,0 +1,21 @@
+============================================================
+  MY OPEN SOURCE MANIFESTO
+  Generated on: 30 March 2026
+  By: Princi Singh
+  Reg No: 24MEI10140
+============================================================
+
+  Every day, I rely on python — a piece of software that
+  someone built and shared freely with the world.
+
+  To me, freedom means independent. In software, it means
+  I can read, modify, and improve the code.
+
+  I commit that when I build project, I will share it
+  with others to support open collaboration.
+
+  Open source is not just code — it is a mindset of sharing.
+
+============================================================
+  Chosen Software: Python (PSF License)
+============================================================
