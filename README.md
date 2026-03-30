@@ -41,10 +41,10 @@ python3 --version
 🟢 Setup Instructions
 Clone the repository or copy all scripts to a folder:
 
-git clone https://github.com/YOUR_USERNAME/oss-audit-24MIP10158.git
-cd oss-audit-24MIP10158
+git clone https://github.com/YOUR_USERNAME/oss-audit-24Mei10140.git
+cd oss-audit-24Mei10140
 
-oss-audit-24MIP10158/
+oss-audit-24Mei10140/
 │
 ├── script1.sh       # System Identity Report
 ├── script2.sh       # FOSS Package Inspector
@@ -106,8 +106,8 @@ Repository Setup
 To push updates or new scripts to GitHub:
 git init
 git add .
-git commit -m "OSS Audit Project — Kritika Karma 24MIP10158"
-git remote add origin https://github.com/kritikarma2007/oss-audit-24MIP10158.git
+git commit -m "OSS Audit Project — Princi Singh"
+git remote add origin https://github.com/princisingh12/oss-audit-24MEI10140.git
 git branch -M main
 git push -u origin main
   
@@ -124,4 +124,4 @@ Author
 Princi Singh
 Registration No: 24MEI10140
 Course: Open Source Software (OSS)
-Date: March 2026
+Date: 30 March 2026
