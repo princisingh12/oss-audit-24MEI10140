@@ -34,7 +34,7 @@ read -p "  3. Name one thing you would build and share freely: " project
 echo ""
 
 # --- Validation ---
-if [ -z "$TOOL" ] || [ -z "$FREEDOM" ] || [ -z "$BUILD" ]; then
+if [ -z "$PYTHON" ] || [ -z "$INDEPENDENT" ] || [ -z "$PROJECT" ]; then
     echo "  ERROR: All three questions must be answered."
     exit 1
 fi
@@ -52,15 +52,15 @@ echo "  Reg No: 24MEI10140" >> "$OUTPUT"
 echo "============================================================" >> "$OUTPUT"
 echo "" >> "$OUTPUT"
 
-echo "  Every day, I rely on $TOOL — a piece of software that" >> "$OUTPUT"
+echo "  Every day, I rely on $PYTHON — a piece of software that" >> "$OUTPUT"
 echo "  someone built and shared freely with the world." >> "$OUTPUT"
 echo "" >> "$OUTPUT"
 
-echo "  To me, freedom means $FREEDOM. In software, it means" >> "$OUTPUT"
+echo "  To me, freedom means $INDEPENDENT. In software, it means" >> "$OUTPUT"
 echo "  I can read, modify, and improve the code." >> "$OUTPUT"
 echo "" >> "$OUTPUT"
 
-echo "  I commit that when I build $BUILD, I will share it" >> "$OUTPUT"
+echo "  I commit that when I build $PROJECT, I will share it" >> "$OUTPUT"
 echo "  with others to support open collaboration." >> "$OUTPUT"
 echo "" >> "$OUTPUT"
 
